@@ -11,8 +11,8 @@ Hi, i'm [Kemal BAYINDIR](https://kemalbayindir.com/), a passionate self-taught f
 
 <img align="right" alt="GIF" src="icons/code.gif?raw=true" width="500" height="320" />
   
-- 💼 reach me out via [email](mailto:kemalbayindir@gmail.com)
-- 💬 ask me about anything, i am happy to help
+- 💼 do reach, [email](mailto:kemalbayindir@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 **Languages and Tools:**  
 
@@ -21,8 +21,8 @@ Hi, i'm [Kemal BAYINDIR](https://kemalbayindir.com/), a passionate self-taught f
 <a href="https://golang.org" target="_blank"> <img src="icons/go.svg" alt="go"  height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="icons/java.svg" alt="java"  height="40"/> </a>
 <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="icons/csharp.png" alt="c-sharp"  height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="icons/typescript.svg" alt="typescript" width="32" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"><img src="icons/javascript.svg" alt="javascript" width="32" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="icons/typescript.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank"><img src="icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="icons/python.svg" alt="python"  height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="icons/react.svg" alt="react"  height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="icons/reactnative.png" alt="react-native"  height="40"/> </a> 
