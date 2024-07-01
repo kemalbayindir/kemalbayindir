@@ -20,7 +20,7 @@ Hi, i'm [Kemal BAYINDIR](https://kemalbayindir.com/), a passionate self-taught f
 <p align="left"> 
 <a href="https://golang.org" target="_blank"> <img src="icons/go.svg" alt="go"  height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="icons/java.svg" alt="java"  height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank"> <img src="icons/rustlang.svg" alt="go"  height="40"/> </a> 
+<a href="https://www.rust-lang.org" target="_blank"> <img src="icons/rustlang.svg" alt="rust"  height="40"/> </a> 
 <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="icons/csharp.png" alt="c-sharp"  height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="icons/typescript.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"><img src="icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
