@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/kemal-bayindir-98b77032/" target="blank"><img align="center" src="icons/linkedin.svg" alt="kemalbayindir" height="40" /></a>
 </p>
 
-Hi, i'm [Kemal BAYINDIR](https://kemalbayindir.com/), a passionate self-taught full stack web & mobile developer and a freelance software engineer from Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 
+Hi, i'm [Kemal BAYINDIR](https://kemalbayindir.com/), a passionate self-taught full stack web & mobile developer and a freelance software engineer from Turkey. My passion for software development with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 
 
 <img align="right" alt="GIF" src="icons/code.gif?raw=true" width="500" height="320" />
   
@@ -20,6 +20,7 @@ Hi, i'm [Kemal BAYINDIR](https://kemalbayindir.com/), a passionate self-taught f
 <p align="left"> 
 <a href="https://golang.org" target="_blank"> <img src="icons/go.svg" alt="go"  height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="icons/java.svg" alt="java"  height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank"> <img src="icons/rustlang.png" alt="go"  height="40"/> </a> 
 <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="icons/csharp.png" alt="c-sharp"  height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="icons/typescript.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"><img src="icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
