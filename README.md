@@ -11,9 +11,6 @@ Hi, i'm [Kemal BAYINDIR](https://kemalbayindir.com/), a passionate self-taught f
 
 <img align="right" alt="GIF" src="icons/code.gif?raw=true" width="500" height="320" />
   
-- 💼 do reach, [email](mailto:kemalbayindir@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
 **Languages and Tools:**  
 
 
